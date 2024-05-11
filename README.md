@@ -6,11 +6,11 @@ The frontend for the real-time chat application called `StandApp` developed with
 
 | Libraries |
 | ---- |
-| Socket.io-client |
-| React-router |
-| React-emoji |
-| React-scroll-to-bottom |
-| Query-string |
+| socket.io-client |
+| react-router |
+| react-emoji |
+| react-scroll-to-bottom |
+| query-string |
 
 ## ToDo
 
